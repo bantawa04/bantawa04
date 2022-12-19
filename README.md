@@ -55,6 +55,6 @@
 
 <br/>
 
-![snake gif](https://github.com/bantawa04/bantawa04/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/bantawa04/bantawa04/blob/output/github-contribution-grid-snake.svg)
 
 ###
