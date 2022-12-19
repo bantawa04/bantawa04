@@ -58,3 +58,7 @@
 ![snake gif](https://github.com/bantawa04/bantawa04/blob/output/github-contribution-grid-snake.svg)
 
 ###
+
+[![bantawa04's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bantawa04)](https://github.com/bantawa04&theme=tokyo-night/github-readme-activity-graph)
+
+###
