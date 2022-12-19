@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bantawa04/bantawa04/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/bantawa04/bantawa04/blob/output/github-contribution-grid-snake.gif)
 
 ###
