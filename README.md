@@ -59,6 +59,6 @@
 
 ###
 
-[![bantawa04's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bantawa04)](https://github.com/bantawa04&theme=tokyo-night/github-readme-activity-graph)
+[![bantawa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bantawa04&theme=tokyo-night)](https://github.com/bantawa04/github-readme-activity-graph)
 
 ###
