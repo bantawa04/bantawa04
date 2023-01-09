@@ -45,10 +45,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/ZhsmCPuTYzMAAAAC/cool-im.gif"  />
-
-###
-
 <br clear="both">
 
 <br/>
