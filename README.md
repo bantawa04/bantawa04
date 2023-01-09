@@ -55,8 +55,6 @@
 
 <br/>
 
-![snake gif](https://github.com/bantawa04/bantawa04/blob/output/github-contribution-grid-snake-dark.svg)
-
 ###
 
 [![bantawa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bantawa04&theme=tokyo-night)](https://github.com/bantawa04/github-readme-activity-graph)
