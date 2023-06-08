@@ -53,6 +53,5 @@
 
 ###
 
-[![bantawa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bantawa04&theme=tokyo-night)](https://github.com/bantawa04/github-readme-activity-graph)
-
+[![Pawan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bantawa04&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ###
